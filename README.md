@@ -17,8 +17,6 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gerlingabriel)  
-
 ![GitHub metrics](https://metrics.lecoq.io/gerlingabriel)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gerlingabriel)  
