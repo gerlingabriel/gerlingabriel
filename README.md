@@ -6,9 +6,9 @@ Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus anime
 
 Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ 
 
-- 🔭 I’m currently working on Projeto CESAN 
-- 🌱 I’m currently learning RabbitMQ, Javascrpit 
-- 📫 How to reach me: gerlin.gabriel@gmail.com 
+- 🔭 Estou no projeto atual: CESAN back-end
+- 🌱 Estou buscando estudar: RabbitMQ, Javascrpit 
+- 📫 Meu e-mail: gerlin.gabriel@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gerlingabriel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-gerlin-5a565198//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gabriel.gerlin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gabrielgerlin//)  
