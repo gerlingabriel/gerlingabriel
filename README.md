@@ -1,6 +1,6 @@
 ### Hi there 👋, Olá! Eu me chamo Gabriel
 #### Eu sou desenvolvedor Full Stack
-![Eu sou desenvolvedor Full Stack](https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1-1024x573.png.webp)
+![Eu sou desenvolvedor Full Stack]
 
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
