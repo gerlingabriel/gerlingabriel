@@ -9,7 +9,7 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/
 - 🔭 Estou no projeto atual: CESAN back-end
 - 🌱 Estou buscando estudar: RabbitMQ, Javascrpit 
 - 📫 Meu e-mail: gerlin.gabriel@gmail.com 
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel&show_icons=true&count_private=true)  
