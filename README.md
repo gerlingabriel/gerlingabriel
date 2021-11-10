@@ -1,4 +1,4 @@
-### Hi there 👋, Olá! Eu me chamo Gabriel
+### 👋, Olá! Eu me chamo Gabriel
 #### Eu sou desenvolvedor Full Stack
 ![Eu sou desenvolvedor Full Stack]
 
