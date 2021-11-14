@@ -13,10 +13,7 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYS
     
  <center>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gerlingabriel&repo=github-readme-stats" />
-</a>
-
 </center>
-    ![Profile views](https://gpvc.arturio.dev/gerlingabriel)
+
+ ![Profile views](https://gpvc.arturio.dev/gerlingabriel)
 
