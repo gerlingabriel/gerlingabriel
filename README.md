@@ -2,7 +2,8 @@
 #### Eu sou desenvolvedor Full Stack
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
-Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> <img height="30" src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> 
+<img heigth=30 width=30 src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
  
 
  
