@@ -16,5 +16,5 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYS
 
 
 </center>
-    ![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
+    [![Profile views](https://gpvc.arturio.dev/gerlingabriel)]
 
