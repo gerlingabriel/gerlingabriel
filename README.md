@@ -12,5 +12,6 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYS
   <a href="https://github.com/gerlingabriel">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats)  
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) ]
-![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) 
+    
+  ![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
