@@ -3,7 +3,8 @@
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
  <div alig="center">
-Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
+Skills: <img height="120em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
+/ ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
  </div>
 
 - 🔭 Estou no projeto atual: CESAN back-end
