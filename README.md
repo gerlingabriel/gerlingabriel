@@ -3,7 +3,7 @@
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
  <div alig="center">
-Skills: <img height="110em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" > <img height="110em" src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" >
+Skills: <img height="110em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> <img height="110em" src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
  
 
  
