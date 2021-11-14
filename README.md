@@ -7,12 +7,14 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYS
 - 🔭 Estou no projeto atual: CESAN back-end
 - 🌱 Estou buscando estudar: RabbitMQ, Javascrpit 
 - 📫 Meu e-mail: gerlin.gabriel@gmail.com
-    <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) 
-    
-</div>
 
-  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) 
     
-  ![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
+ <div align="center">
+
+
+
+
+    ![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
+  </div>
