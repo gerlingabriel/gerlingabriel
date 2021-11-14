@@ -8,12 +8,11 @@ Skills: JAVA / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYS
 - 🌱 Estou buscando estudar: RabbitMQ, Javascrpit 
 - 📫 Meu e-mail: gerlin.gabriel@gmail.com
     
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) 
     
 <div align="center">
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact)
-    
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel)](https://github.com/anuraghazra/github-readme-stats) 
   
     
   ![Profile views](https://gpvc.arturio.dev/gerlingabriel)  
