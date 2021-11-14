@@ -2,12 +2,7 @@
 #### Eu sou desenvolvedor Full Stack
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
-Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> 
-<img heigth=30 width=30 src=" https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
- 
-
- 
-/ ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
+Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
  </div>
 
 - 🔭 Estou no projeto atual: CESAN back-end
