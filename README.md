@@ -1,5 +1,5 @@
 ### 👋, Olá! Eu me chamo Gabriel
-#### Eu sou desenvolvedor Full Stack
+#### Eu sou desenvolvedor back-end
 Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
 
 Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
