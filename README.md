@@ -5,8 +5,8 @@ Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus anime
 Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
  </div>
 
-- 🔭 Estou no projeto atual: MoniAuto Back-End Java
-- 🌱 Estou buscando estudar: RabbitMQ, Javascrpit 
+- 🔭 Estou no projeto atual: MobiAuto Back-End Java
+- 🌱 Estou buscando estudar: RabbitMQ
 - 📫 Meu e-mail: gerlin.gabriel@gmail.com
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact&theme=dark&show_icons=true)
