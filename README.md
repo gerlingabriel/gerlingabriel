@@ -22,26 +22,6 @@ Testes: JUnit, Mockito, REST-Assured
 
 Metodologias: Scrum, Kanban
 
-## 💼 Experiência Profissional
-
-🔹 Desenvolvedor Back-end Pleno | Mobiauto (Fev/2022 - Presente)
-
-Manutenção e desenvolvimento de microsserviços escaláveis e de alta disponibilidade.
-
-Uso de Docker para containerização e Git/GitHub para controle de versão.
-
-Gerenciamento de dados com PostgreSQL e MongoDB, além de mensageria com Amazon SQS.
-
-Aplicação de boas práticas de arquitetura e testes automatizados.
-
-🔹 Desenvolvedor de Sistemas Pleno | Vixsystem (Jan/2021 - Fev/2022)
-
-Manutenção do site DBJur do STJ, utilizando Java e JSP.
-
-Desenvolvimento de novos projetos com Spring Boot + Thymeleaf.
-
-Implementação de soluções para a CESAN, utilizando microsserviços e GitLab.
-
 🎓 Formação
 
 🎓 Bacharelado em Sistemas de Informação - UniSales (2019)
