@@ -1,17 +1,69 @@
-### 👋, Olá! Eu me chamo Gabriel
-#### Eu sou desenvolvedor back-end
-Eu sou um desenvolvedor que gosta programar, amo minha família, vejo meus animes, não fico sem cinema e meu Dota 2.
+# 💻 Gabriel Gerlin
 
-Skills: <img alt="java" heigth=30 width=30 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> / ANGULAR / THYMELEAF / JSP / DOCKER-COMPOSE/ BANCO RELACIONAL (MYSQL, POSTGRESQL, SQL SERVE), NÃO RELACIONAL (NOSQL)
- </div>
+Desenvolvedor Back-end Java
 
-- 🔭 Estou no projeto atual: MobiAuto Back-End Java
-- 🌱 Estou buscando estudar: RabbitMQ
-- 📫 Meu e-mail: gerlin.gabriel@gmail.com
+🚀 Desenvolvedor com 3 anos de experiência em aplicações robustas e escaláveis utilizando Spring Boot, APIs REST e bancos de dados SQL e NoSQL. Focado em arquitetura de microsserviços e cloud computing, com conhecimento em testes unitários e metodologias ágeis.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerlingabriel&layout=compact&theme=dark&show_icons=true)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerlingabriel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+📍 Serra - ES, Brasil📧 E-mail: gerlin.gabriel@gmail.com🔗 LinkedIn🔗 GitHub
 
-  ![Profile views](https://gpvc.arturio.dev/gerlingabriel)
+🛠️ Tecnologias e Ferramentas
+
+Linguagens: Java
+
+Frameworks: Spring Boot (JPA, Security), Hibernate
+
+Banco de Dados: PostgreSQL, MySQL, MongoDB
+
+Mensageria: RabbitMQ, Amazon SQS
+
+Ferramentas: Docker, Git, GitHub, Jenkins (noções)
+
+Testes: JUnit, Mockito, REST-Assured
+
+Metodologias: Scrum, Kanban
+
+## 💼 Experiência Profissional
+
+🔹 Desenvolvedor Back-end Pleno | Mobiauto (Fev/2022 - Presente)
+
+Manutenção e desenvolvimento de microsserviços escaláveis e de alta disponibilidade.
+
+Uso de Docker para containerização e Git/GitHub para controle de versão.
+
+Gerenciamento de dados com PostgreSQL e MongoDB, além de mensageria com Amazon SQS.
+
+Aplicação de boas práticas de arquitetura e testes automatizados.
+
+🔹 Desenvolvedor de Sistemas Pleno | Vixsystem (Jan/2021 - Fev/2022)
+
+Manutenção do site DBJur do STJ, utilizando Java e JSP.
+
+Desenvolvimento de novos projetos com Spring Boot + Thymeleaf.
+
+Implementação de soluções para a CESAN, utilizando microsserviços e GitLab.
+
+🎓 Formação
+
+🎓 Bacharelado em Sistemas de Informação - UniSales (2019)
+
+## 📚 Cursos:
+
+FullCycle (Em andamento)
+
+RabbitMQ com Spring Boot e Docker (Udemy)
+
+Spring Boot, Hibernate, REST, JWT, MySQL, MongoDB (Udemy)
+
+Testes Unitários em Java: JUnit, Mockito e TDD (Udemy)
+
+REST-Assured e JUnit - Testando APIs (Udemy)
+
+🌍 Idiomas: Inglês Básico (leitura e fala)
+
+📊 Estatísticas do GitHub
+
+
+
+✉️ Aberto a oportunidades e networking! Entre em contato pelo e-mail ou LinkedIn. 😃
 
 
